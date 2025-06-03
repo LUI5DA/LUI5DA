@@ -13,7 +13,7 @@
 - 🐳 **Containers**: Docker  
 - 🐧 **OS**: Linux  
 - 🐍 **Languages**: C++, Python, Java, Javascript, R, HCL
-
+- 🛢️ **Database**: MySQL, Oracle, SQL Server
 ---
 
 ## 🧪 Projects
