@@ -9,8 +9,8 @@
 ## 🚀 Tech I'm working with
 
 - ☁️ **Cloud**: AWS, Azure  
-- 🔧 **DevOps Tools**: GitHub Actions, Jenkins, Terraform  
-- 🐳 **Containers**: Docker  
+- 🔧 **DevOps Tools**: GitHub Actions, Jenkins, Terraform, Ansible 
+- 🐳 **Containers**: Docker, Kubernetes  
 - 🐧 **OS**: Linux  
 - 🐍 **Languages**: C++, Python, Java, Javascript, R, HCL
 - 🛢️ **Database**: MySQL, Oracle, SQL Server
